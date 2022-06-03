@@ -2,7 +2,7 @@
 <b><i><u>Telegram Lag Free radio player which can play live radio stream or yt stream in voice chat with minimum lag As depend upon their server nd quality of internet❤️🚶.</u></i></b><br>
 
 
-<p align="center"><img src="https://img.shields.io/badge/Visitors-black"><br><img src="https://profile-counter.glitch.me/S-UNSTOPPABLE/count.svg">
+<p align="center"><img src="https://img.shields.io/badge/Visitors-black"><br><img src="https://profile-counter.glitch.me/ItsmeHyper13/count.svg">
 <pre>
 
 
@@ -56,7 +56,7 @@ Silent Radio Streamer 🚶
 
 <h4><b><i>You Can Ask any Query Related about This Project just click on button below</i></b></h4>
 <p align="center">
-<a href="https://t.me/SILENT_SUPPORT1"><img src="https://img.shields.io/badge/Ask%20-anything-1abc9c.svg"></a>
+<a href="https://t.me/SilentVerse"><img src="https://img.shields.io/badge/Ask%20-anything-1abc9c.svg"></a>
 
 <h2><b><i>Silent Github's Stats</i></b></h2>
 <img src="https://img.shields.io/github/license/ItsmeHyper13/RadioPlayer.svg">
@@ -64,11 +64,7 @@ Silent Radio Streamer 🚶
 <img src="https://img.shields.io/github/stars/ItsmeHyper13/RadioPlayer.svg">
 <img src="https://img.shields.io/github/followers/ItsmeHyper13.svg?style=social&label=Follow&maxAge=2592000">
 
-<details>
-<summary><h3><b><i>My GitHub Stats 🧚‍♀️🚶</i></b></h3></summary>
-<img src="https://github-readme-stats.vercel.app/api?username=ItsmeHyper13&theme=blue-green">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsmeHyper13&theme=blue-green">
-</details>
+
 
 <h5><code>You can found me on telegram</code></h5>
 
