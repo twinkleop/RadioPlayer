@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<img src='https://telegra.ph/file/8d4d7f1fbc0a718b18056.jpg' alternate="Aww Reload Aunty It's Your internet issue" height="250px">
+<img src='https://telegra.ph/file/9fd529c61bef7367ce325.png' alternate="Aww Reload Aunty It's Your internet issue" height="250px">
 
 </pre>
 <details><summary> <h3><b>Installations</b></h3> </summary>
